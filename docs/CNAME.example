@@ -1,0 +1,3 @@
+# Se usar domínio custom (ex.: docs-public.rtcloud.com.br), renomeie para CNAME
+# e configure DNS. Por padrão o Pages fica em:
+#   https://rtcloud-br.github.io/rtcloud-docs/

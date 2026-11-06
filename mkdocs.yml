@@ -1,0 +1,98 @@
+site_name: RTCloud Docs
+site_url: https://rtcloud-br.github.io/rtcloud-docs/
+site_description: Documentação pública da RTCloud — hospedagem de bots, sites e APIs no Brasil. Começar, planos, recursos, FAQ e suporte.
+site_author: RTCloud · RTPySystems
+repo_url: https://github.com/rtcloud-br/rtcloud-docs
+repo_name: rtcloud-br/rtcloud-docs
+edit_uri: ""
+copyright: © RTCloud · rtcloud.com.br · mantida por RTPySystems
+
+theme:
+  name: material
+  language: pt
+  font:
+    text: Inter
+    code: JetBrains Mono
+  palette:
+    - scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/brightness-4
+        name: Modo claro
+    - scheme: default
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/brightness-7
+        name: Modo escuro
+  features:
+    - navigation.instant
+    - navigation.sections
+    - navigation.top
+    - navigation.tabs
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - toc.follow
+  icon:
+    repo: fontawesome/brands/github
+    logo: material/cloud
+    admonition:
+      note: material/information-outline
+      tip: material/fire
+      warning: material/alert
+
+extra_css:
+  - stylesheets/extra.css
+
+extra:
+  social:
+    - icon: fontawesome/solid/globe
+      link: https://rtcloud.com.br
+      name: Site
+    - icon: fontawesome/brands/whatsapp
+      link: https://wa.me/5521998733107
+      name: WhatsApp
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/vbNbKxDR7
+      name: Discord
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/rtcloud.br/
+      name: Instagram
+    - icon: fontawesome/brands/github
+      link: https://github.com/rtcloud-br
+      name: GitHub
+  generator: false
+
+plugins:
+  - search:
+      lang: pt
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - tables
+  - toc:
+      permalink: true
+  - attr_list
+  - md_in_html
+  - def_list
+
+nav:
+  - Início: index.md
+  - Começar:
+      - Criar conta e primeiro deploy: inicio/primeiro-deploy.md
+      - O que você pode hospedar: inicio/o-que-hospedar.md
+  - Planos e recursos:
+      - Planos e preços: planos/index.md
+      - Recursos do painel: recursos/index.md
+      - Hardware: recursos/hardware.md
+  - FAQ: faq/index.md
+  - Suporte: suporte/index.md
