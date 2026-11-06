@@ -1,8 +1,3 @@
----
-title: RTCloud Docs — Hospedagem de bots, sites e APIs no Brasil
-description: Documentação pública da RTCloud. Deploy em minutos, painel em português, Pix Automático, HTTPS e suporte no WhatsApp. Docs oficial: docs.rtcloud.com.br
----
-
 <div class="hero" markdown="0">
   <img src="assets/banner-docs.svg" alt="RTCloud Docs"/>
 </div>

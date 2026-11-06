@@ -1,8 +1,3 @@
----
-title: Criar conta e primeiro deploy · RTCloud
-description: Como criar conta na RTCloud e colocar bot, site ou API no ar em três passos — ZIP ou GitHub.
----
-
 # Criar conta e primeiro deploy
 
 Fonte: [rtcloud.com.br](https://rtcloud.com.br)

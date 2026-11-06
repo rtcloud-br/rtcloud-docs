@@ -1,8 +1,3 @@
----
-title: Suporte RTCloud — WhatsApp, e-mail, Discord e ReactorAI
-description: Canais oficiais de suporte da RTCloud — WhatsApp (21) 99873-3107, contato@rtcloud.com.br, Discord e ReactorAI.
----
-
 # Suporte
 
 Fonte: [rtcloud.com.br/suporte](https://rtcloud.com.br/suporte)

@@ -1,8 +1,3 @@
----
-title: O que você pode hospedar na RTCloud
-description: Bots Discord, WhatsApp e Telegram, sites com HTTPS, APIs Node/Python, bancos dedicados e APIs de alto tráfego.
----
-
 # O que você pode hospedar
 
 Fonte: [rtcloud.com.br](https://rtcloud.com.br) · [rtcloud.com.br/hospedagem](https://rtcloud.com.br/hospedagem)

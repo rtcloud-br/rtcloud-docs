@@ -1,8 +1,3 @@
----
-title: Planos e preços · RTCloud
-description: Planos RTCloud de Spark a Apex e Obsidian empresarial. Pix Automático, AMD EPYC, NVMe. Valores oficiais em rtcloud.com.br/planos.
----
-
 # Planos e preços
 
 Fonte oficial (sempre conferir valores atualizados): **[rtcloud.com.br/planos](https://rtcloud.com.br/planos)**

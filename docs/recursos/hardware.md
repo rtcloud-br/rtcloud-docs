@@ -1,8 +1,3 @@
----
-title: Hardware · RTCloud
-description: Infraestrutura RTCloud — AMD EPYC, RAM de alta frequência, SSD NVMe empresarial e proteção DDoS. Do Free ao Apex.
----
-
 # Hardware
 
 Fonte: [rtcloud.com.br](https://rtcloud.com.br) · [rtcloud.com.br/hardware](https://rtcloud.com.br/hardware)

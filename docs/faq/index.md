@@ -1,8 +1,3 @@
----
-title: FAQ · Perguntas frequentes RTCloud
-description: Teste grátis, Pix, linguagens, domínio HTTPS, segurança, erros e planos — respostas oficiais da RTCloud.
----
-
 # FAQ
 
 Fonte: FAQ do site [rtcloud.com.br](https://rtcloud.com.br) (e páginas relacionadas). Para mais artigos: [docs.rtcloud.com.br](https://docs.rtcloud.com.br).
