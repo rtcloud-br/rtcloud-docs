@@ -1,5 +1,5 @@
 <div class="hero" markdown="0">
-  <img src="assets/banner-docs.svg" alt="RTCloud Docs"/>
+  <img src="assets/banner-docs.png" alt="RTCloud Docs"/>
 </div>
 
 # RTCloud Docs
@@ -34,7 +34,7 @@ Deploy em minutos · painel em português · Pix Automático · subdomínios `*.
 
 A RTCloud é uma hospedagem brasileira para **bots** (Discord, WhatsApp, Telegram, Slack), **sites**, **APIs** e **bancos dedicados**, com pagamento por **Pix Automático** e suporte em português.
 
-![Serviços](assets/illust-services.svg)
+![Serviços](assets/illust-services.png)
 
 ## Links rápidos
 

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./docs/assets/banner-docs.svg" alt="RTCloud Docs" width="100%"/>
+  <img src="./docs/assets/banner-docs.png" alt="RTCloud Docs" width="100%"/>
 </p>
 
 <p align="center">
