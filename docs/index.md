@@ -25,6 +25,7 @@ Deploy em minutos · painel em português · Pix Automático · subdomínios `*.
   <a href="inicio/o-que-hospedar/"><strong>📦 O que hospedar</strong>Bots, sites, APIs e bancos</a>
   <a href="planos/"><strong>💳 Planos</strong>A partir de R$ 16,24/mês</a>
   <a href="recursos/"><strong>✨ Recursos</strong>Painel, ReactorAI, MCP, Blob</a>
+  <a href="novidades/"><strong>📰 Novidades</strong>Changelog oficial (v5.2…)</a>
   <a href="faq/"><strong>❓ FAQ</strong>Perguntas frequentes</a>
   <a href="suporte/"><strong>💬 Suporte</strong>WhatsApp, Discord, e-mail</a>
 </div>

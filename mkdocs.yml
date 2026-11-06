@@ -94,5 +94,6 @@ nav:
       - Planos e preços: planos/index.md
       - Recursos do painel: recursos/index.md
       - Hardware: recursos/hardware.md
+  - Novidades: novidades/index.md
   - FAQ: faq/index.md
   - Suporte: suporte/index.md
